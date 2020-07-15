@@ -10,7 +10,7 @@
 -->
 
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]<!-- Watch this: https://www.youtube.com/watch?v=eC7xzavzEKY -->
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/LXT2017)
 
 <!-- # 👀 Hi stranger! 👋🏻 -->
 
