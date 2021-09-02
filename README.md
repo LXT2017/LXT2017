@@ -16,10 +16,10 @@
 
 # 🤔 Hi I'm Shawn 👋
 
-- 🐇 Following the white rabbit
-- 🐈 Cat dad 😻
+- 🐇 Following the lovely white rabbit
+- 🐈 Love Cat 😻
 - Professional 🐛 solver
-- 👨🏻‍💻 Full-Stack Developer
+- 👨🏻‍💻 Becoming Full-Stack Developer
 - 💊 Coding the Matrix
 - 😍 Emoji lover
 - 🚀 One day I will see humans on Mars!
